@@ -1,4 +1,4 @@
-FROM node:8
+FROM node:current
 
 LABEL company="Benjamin Guibert"
 LABEL maintainer="contact@bguibert.com"
