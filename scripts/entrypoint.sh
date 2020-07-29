@@ -5,4 +5,5 @@ yarn install --production --non-interactive
 
 yarn run build
 
-mv ./build /var/build
+mv ./build ./deploy
+mv ./deploy /var/build
